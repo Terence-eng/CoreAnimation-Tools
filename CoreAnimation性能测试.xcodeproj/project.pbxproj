@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A73341DA1ED7C5CD00E8A11E /* Unknown.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A73341D91ED7C5CD00E8A11E /* Unknown.jpeg */; };
+		A73341DC1ED7C90700E8A11E /* WechatIMG1.png in Resources */ = {isa = PBXBuildFile; fileRef = A73341DB1ED7C90700E8A11E /* WechatIMG1.png */; };
+		A7409A081ED6D47100817602 /* BlendedLayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7409A071ED6D47100817602 /* BlendedLayerViewController.m */; };
+		A7B9547B1E2C72AF00A55476 /* UIImage+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = A7B9547A1E2C72AF00A55476 /* UIImage+Category.m */; };
+		A7B954801E2C777200A55476 /* UIView+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = A7B9547F1E2C777200A55476 /* UIView+Category.m */; };
+		A7B954831E2C795200A55476 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7B954821E2C795200A55476 /* TableViewCell.m */; };
 		A7CEB31A1E2A2823000BEB7E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CEB3191E2A2823000BEB7E /* main.m */; };
 		A7CEB31D1E2A2824000BEB7E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CEB31C1E2A2824000BEB7E /* AppDelegate.m */; };
 		A7CEB3201E2A2824000BEB7E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CEB31F1E2A2824000BEB7E /* ViewController.m */; };
@@ -15,6 +21,10 @@
 		A7CEB3281E2A2824000BEB7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7CEB3261E2A2824000BEB7E /* LaunchScreen.storyboard */; };
 		A7CEB3331E2A2824000BEB7E /* CoreAnimation____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CEB3321E2A2824000BEB7E /* CoreAnimation____Tests.m */; };
 		A7CEB33E1E2A2824000BEB7E /* CoreAnimation____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CEB33D1E2A2824000BEB7E /* CoreAnimation____UITests.m */; };
+		A7F929431E2B6EB800CD2A52 /* ColorHitsGreenandMissesRedController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F929421E2B6EB800CD2A52 /* ColorHitsGreenandMissesRedController.m */; };
+		A7F929461E2B74EF00CD2A52 /* ColorCopiedImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F929451E2B74EF00CD2A52 /* ColorCopiedImageViewController.m */; };
+		A7F929491E2B754600CD2A52 /* ColorMisalignedImageController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F929481E2B754600CD2A52 /* ColorMisalignedImageController.m */; };
+		A7F9294C1E2B76E000CD2A52 /* ColorOffscreen-RenderedYellowController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7F9294B1E2B76E000CD2A52 /* ColorOffscreen-RenderedYellowController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +45,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A73341D91ED7C5CD00E8A11E /* Unknown.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Unknown.jpeg; sourceTree = "<group>"; };
+		A73341DB1ED7C90700E8A11E /* WechatIMG1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WechatIMG1.png; sourceTree = "<group>"; };
+		A7409A061ED6D47100817602 /* BlendedLayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlendedLayerViewController.h; sourceTree = "<group>"; };
+		A7409A071ED6D47100817602 /* BlendedLayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlendedLayerViewController.m; sourceTree = "<group>"; };
+		A7B954791E2C72AF00A55476 /* UIImage+Category.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Category.h"; sourceTree = "<group>"; };
+		A7B9547A1E2C72AF00A55476 /* UIImage+Category.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Category.m"; sourceTree = "<group>"; };
+		A7B9547E1E2C777200A55476 /* UIView+Category.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Category.h"; sourceTree = "<group>"; };
+		A7B9547F1E2C777200A55476 /* UIView+Category.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Category.m"; sourceTree = "<group>"; };
+		A7B954811E2C795200A55476 /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		A7B954821E2C795200A55476 /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
 		A7CEB3151E2A2823000BEB7E /* CoreAnimation性能测试.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CoreAnimation性能测试.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CEB3191E2A2823000BEB7E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A7CEB31B1E2A2823000BEB7E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +71,14 @@
 		A7CEB3391E2A2824000BEB7E /* CoreAnimation性能测试UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CoreAnimation性能测试UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CEB33D1E2A2824000BEB7E /* CoreAnimation____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CoreAnimation____UITests.m"; sourceTree = "<group>"; };
 		A7CEB33F1E2A2824000BEB7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7F929411E2B6EB800CD2A52 /* ColorHitsGreenandMissesRedController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorHitsGreenandMissesRedController.h; sourceTree = "<group>"; };
+		A7F929421E2B6EB800CD2A52 /* ColorHitsGreenandMissesRedController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorHitsGreenandMissesRedController.m; sourceTree = "<group>"; };
+		A7F929441E2B74EF00CD2A52 /* ColorCopiedImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorCopiedImageViewController.h; sourceTree = "<group>"; };
+		A7F929451E2B74EF00CD2A52 /* ColorCopiedImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorCopiedImageViewController.m; sourceTree = "<group>"; };
+		A7F929471E2B754600CD2A52 /* ColorMisalignedImageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorMisalignedImageController.h; sourceTree = "<group>"; };
+		A7F929481E2B754600CD2A52 /* ColorMisalignedImageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorMisalignedImageController.m; sourceTree = "<group>"; };
+		A7F9294A1E2B76E000CD2A52 /* ColorOffscreen-RenderedYellowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ColorOffscreen-RenderedYellowController.h"; sourceTree = "<group>"; };
+		A7F9294B1E2B76E000CD2A52 /* ColorOffscreen-RenderedYellowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ColorOffscreen-RenderedYellowController.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +106,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A7B954781E2C729200A55476 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				A7B954791E2C72AF00A55476 /* UIImage+Category.h */,
+				A7B9547A1E2C72AF00A55476 /* UIImage+Category.m */,
+				A7B9547E1E2C777200A55476 /* UIView+Category.h */,
+				A7B9547F1E2C777200A55476 /* UIView+Category.m */,
+			);
+			name = Category;
+			sourceTree = "<group>";
+		};
 		A7CEB30C1E2A2823000BEB7E = {
 			isa = PBXGroup;
 			children = (
@@ -101,10 +140,23 @@
 		A7CEB3171E2A2823000BEB7E /* CoreAnimation性能测试 */ = {
 			isa = PBXGroup;
 			children = (
+				A7B954781E2C729200A55476 /* Category */,
 				A7CEB31B1E2A2823000BEB7E /* AppDelegate.h */,
 				A7CEB31C1E2A2824000BEB7E /* AppDelegate.m */,
 				A7CEB31E1E2A2824000BEB7E /* ViewController.h */,
 				A7CEB31F1E2A2824000BEB7E /* ViewController.m */,
+				A7409A061ED6D47100817602 /* BlendedLayerViewController.h */,
+				A7409A071ED6D47100817602 /* BlendedLayerViewController.m */,
+				A7F929411E2B6EB800CD2A52 /* ColorHitsGreenandMissesRedController.h */,
+				A7F929421E2B6EB800CD2A52 /* ColorHitsGreenandMissesRedController.m */,
+				A7F929441E2B74EF00CD2A52 /* ColorCopiedImageViewController.h */,
+				A7F929451E2B74EF00CD2A52 /* ColorCopiedImageViewController.m */,
+				A7F929471E2B754600CD2A52 /* ColorMisalignedImageController.h */,
+				A7F929481E2B754600CD2A52 /* ColorMisalignedImageController.m */,
+				A7F9294A1E2B76E000CD2A52 /* ColorOffscreen-RenderedYellowController.h */,
+				A7F9294B1E2B76E000CD2A52 /* ColorOffscreen-RenderedYellowController.m */,
+				A7B954811E2C795200A55476 /* TableViewCell.h */,
+				A7B954821E2C795200A55476 /* TableViewCell.m */,
 				A7CEB3211E2A2824000BEB7E /* Main.storyboard */,
 				A7CEB3241E2A2824000BEB7E /* Assets.xcassets */,
 				A7CEB3261E2A2824000BEB7E /* LaunchScreen.storyboard */,
@@ -117,6 +169,8 @@
 		A7CEB3181E2A2823000BEB7E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A73341DB1ED7C90700E8A11E /* WechatIMG1.png */,
+				A73341D91ED7C5CD00E8A11E /* Unknown.jpeg */,
 				A7CEB3191E2A2823000BEB7E /* main.m */,
 			);
 			name = "Supporting Files";
@@ -249,7 +303,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A73341DA1ED7C5CD00E8A11E /* Unknown.jpeg in Resources */,
 				A7CEB3281E2A2824000BEB7E /* LaunchScreen.storyboard in Resources */,
+				A73341DC1ED7C90700E8A11E /* WechatIMG1.png in Resources */,
 				A7CEB3251E2A2824000BEB7E /* Assets.xcassets in Resources */,
 				A7CEB3231E2A2824000BEB7E /* Main.storyboard in Resources */,
 			);
@@ -277,8 +333,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7CEB3201E2A2824000BEB7E /* ViewController.m in Sources */,
+				A7B954801E2C777200A55476 /* UIView+Category.m in Sources */,
+				A7F929491E2B754600CD2A52 /* ColorMisalignedImageController.m in Sources */,
+				A7B954831E2C795200A55476 /* TableViewCell.m in Sources */,
 				A7CEB31D1E2A2824000BEB7E /* AppDelegate.m in Sources */,
+				A7F9294C1E2B76E000CD2A52 /* ColorOffscreen-RenderedYellowController.m in Sources */,
+				A7F929431E2B6EB800CD2A52 /* ColorHitsGreenandMissesRedController.m in Sources */,
+				A7F929461E2B74EF00CD2A52 /* ColorCopiedImageViewController.m in Sources */,
+				A7409A081ED6D47100817602 /* BlendedLayerViewController.m in Sources */,
 				A7CEB31A1E2A2823000BEB7E /* main.m in Sources */,
+				A7B9547B1E2C72AF00A55476 /* UIImage+Category.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,6 +493,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 3823CPSR4J;
 				INFOPLIST_FILE = "CoreAnimation性能测试/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "---.CoreAnimation----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -441,6 +506,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 3823CPSR4J;
 				INFOPLIST_FILE = "CoreAnimation性能测试/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "---.CoreAnimation----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -516,6 +582,7 @@
 				A7CEB3441E2A2824000BEB7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7CEB3451E2A2824000BEB7E /* Build configuration list for PBXNativeTarget "CoreAnimation性能测试Tests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +591,7 @@
 				A7CEB3471E2A2824000BEB7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7CEB3481E2A2824000BEB7E /* Build configuration list for PBXNativeTarget "CoreAnimation性能测试UITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +600,7 @@
 				A7CEB34A1E2A2824000BEB7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
